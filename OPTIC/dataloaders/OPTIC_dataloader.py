@@ -67,4 +67,4 @@ class OPTIC_dataset(data.Dataset):
         # print(np.unique(mask))
         # print(mask.shape)
         # print(mask[np.newaxis].shape)
-        return img_npy, pseudo_mask[np.newaxis], mask[np.newaxis], img_file
+        return img_npy, mask[np.newaxis], pseudo_mask[np.newaxis], img_file
