@@ -1,10 +1,5 @@
 <div align="center">
 
-<div class="logo">
-   <a href="https://github.com/anonymous/PEOA_CTA">
-      <img src="assets/logo.png" style="width: 200px">
-   </a>
-</div>
 
 <h1>Beyond Visual Prompt: Unlocking Black-Box Adapter for Continual Test-Time Adaptation in Medical Anatomical Region Segmentation</h1>
 
